@@ -8,6 +8,7 @@
 .portfolio-item {
 	margin-top: 20px;
 	width: 20rem;
+	box-shadow: 0 0.1em 0.3em 0 rgba(0, 0, 0, 0.05);
 }
 
 #links {
